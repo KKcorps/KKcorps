@@ -9,5 +9,3 @@ I read books (like 1-2 per month, which is not a lot) but only non-fiction or sc
 My taste in music is eclectic. As an example, my current Spotify playlist consists of Punjabi, Rap, K-pop, EDMs, metal, piano covers of movie/anime soundtracks, and one Egyptian song. For any opportunities, ping me on [LinkedIn](https://www.linkedin.com/in/kharekartik/) or drop an mail to kharekartik@gmail.com.
 
 ![skill_set](https://github.com/KKcorps/KKcorps/blob/master/img/skill_set.jpeg)
-
-![time_series](https://github.com/KKcorps/KKcorps/blob/master/img/time_series.jpeg)
