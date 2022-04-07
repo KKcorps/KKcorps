@@ -6,4 +6,4 @@ I currently live in Bengaluru, India, so most of my day involves me being stuck 
 
 I read books (like 1-2 per month, which is not a lot) but only non-fiction or science fiction. Memes keep me alive. Most of the time, you can find me browsing either Twitter or Reddit.
 
-My taste in music is eclectic. As an example, my current Spotify playlist consists of Punjabi, Rap, K-pop, EDMs, metal, piano covers of movie/anime soundtracks, and one Egyptian song. For any opportunities, ping me on [LinkedIn](https://www.linkedin.com/in/kharekartik/) or drop an mail to kharekartik@gmail.com.
+My taste in music is eclectic. As an example, my current Spotify playlist consists of Punjabi, Rap, K-pop, EDMs, metal, piano covers of movie/anime soundtracks, and one Egyptian song. For any opportunities, ping me on [LinkedIn](https://www.linkedin.com/in/kharekartik/) or drop an email to kharekartik@gmail.com.
