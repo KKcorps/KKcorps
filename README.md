@@ -2,7 +2,7 @@
 
 Kartik this side. I am a software engineer by profession and passion. I started writing recently but somehow got lucky and got over 300K views on Medium.com. I have also written documentation for Apache Airflow, such as the Best Practices guide.
 
-I currently live in Bengaluru, India, so most of my day involves me being stuck in traffic with my job at Walmart Labs as a secondary activity.
+I currently live in Bengaluru, India, so most of my day involves me being stuck in traffic with my job as a secondary activity.
 
 I read books (like 1-2 per month, which is not a lot) but only non-fiction or science fiction. Memes keep me alive. Most of the time, you can find me browsing either Twitter or Reddit.
 
