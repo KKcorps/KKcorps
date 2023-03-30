@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Kartik this side. I am a software engineer by profession and passion. I started writing recently but somehow got lucky and got over 300K views on Medium.com. I have also written documentation for Apache Airflow, such as the Best Practices guide.
+Kartik this side. I am a software engineer by profession and passion. Currently an Apache Committer working mostly on Data Engineering OSS projects.
+
+I started writing recently but somehow got lucky and got over 500K views on Medium.com. I have also written documentation for Apache Airflow, such as the Best Practices guide.
 
 I currently live in Bengaluru, India, so most of my day involves me being stuck in traffic with my job as a secondary activity.
 
